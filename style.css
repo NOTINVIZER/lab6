@@ -1,3 +1,12 @@
-body {
-    
+#menu {
+    width:200px;
+}
+#menu a {
+    color:#2b3845;
+    text-decoration: none;
+    display:block;
+}
+#menu a:hover {
+    color:#92a9bf;
+    background:blue;
 }
