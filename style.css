@@ -13,3 +13,6 @@
 h5, p {
     display: inline;
 }
+h6 {
+    display: list-item;
+}
